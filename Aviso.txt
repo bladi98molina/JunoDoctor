@@ -1,0 +1,1 @@
+usaremos estilo con bustrap para un mayor facilidad en el diseño 
