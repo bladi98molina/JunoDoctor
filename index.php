@@ -83,7 +83,7 @@
       <p class="card-text">Telefono: <a href="tel:229 476 4399">229-476-4399</a></p>
       <p class="card-text">Correo: <a href="mailto:junodoctors@gmail.com">junodoctors@gmail.com</a></p>
       <p class="card-text">whatsapp: <a href=" https://api.whatsapp.com/send?phone=522294764399&fbclid=IwAR3zL-hZ6app2Z5aXQMbG0KUn8Ztmc-DFdSHHl14o-ZOJUim3SiRFwIxUKs">229-476-4399</a></p>
-      <p class="card-text">Descarga la App Juno doctor: <a href="Descarga.php">Descargar</a></p>
+      <p class="card-text">Descarga la App Juno Doctors: <a href="Descarga.php">Descargar</a></p>
      
     </div>
   </div>
