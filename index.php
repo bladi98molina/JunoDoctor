@@ -71,9 +71,17 @@
   <div class="card">
     <img src="img/img-incono/facebook.PNG" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Facebook</h5>
-      <p class="card-text">Encntras informacion mas Reciente</p>
-      <p class="card-text"><a href="https://www.facebook.com/junodoctors/?ref=page_internal">Entrar paguina Facebook</a></p>
+      <h5 class="card-title">Redes Sociales</h5>
+      <!--FACEBOOK-->
+      <span class="codigo"> <form action="https://www.facebook.com/junodoctors/?ref=page_internal" method="post">
+        <input type=image src="img/img-incono/incoredes/facebook.png" width="100" height="100"> </form> </span>
+        <!--TIKTOK-->
+        <span class="codigo"> <form action="www.tiktok.com/@junodoctors?lang=es" method="post">
+        <input type=image src="img/img-incono/incoredes/tiktok.png" width="100" height="100"> </form> </span>
+      <!--INSTAGRAM-->
+      <span class="codigo"> <form action="https://www.instagram.com/junodocs/" method="post">
+        <input type=image src="img/img-incono/incoredes/instagram.png" width="100" height="100"> </form> </span>
+      
     </div>
   </div>
   <div class="card">
