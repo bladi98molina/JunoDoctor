@@ -1,6 +1,6 @@
 <?php
 require 'conexion.php';
-$fecha = date('Y-m-d');
+$fecha = date('d/m/Y');
 $ubicacion=$_POST['grupo_uicacion'];
 $nombre=$_POST['nombre'];
 $SQLSEr_comn="INSERT INTO clientes_sin_status(fehca,Nombre,ubicacion) VALUES('$fecha','$nombre','$ubicacion')";
