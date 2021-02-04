@@ -57,6 +57,8 @@ location.href=" JunoDoctor.php";
 }
 else {
 // Si es ordenador de escritorio has lo que necesites
-   print ' No esta disponible';
+echo  '<script>
+location.href=" JunoDoctor.php";
+</script>';
 }  
 ?>
