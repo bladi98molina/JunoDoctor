@@ -34,12 +34,15 @@
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >
               SERVICIOS 
             </a>
+            <!--lista de Servicios-->
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               
-              <a class="dropdown-item editbtn" data-toggle="modal" data-id="Pediatria General" href="#">Pediatria General</a>
-              <a class="dropdown-item editbtn" data-toggle="modal" data-id="Neurología Pediatrica" href="#">Neurología Pediatrica</a>
-              <a class="dropdown-item editbtn" data-toggle="modal" data-id="Nefrologia Pediatrica" href="#">Nefrologia Pediatrica</a>
-              <a class="dropdown-item editbtn" data-toggle="modal" data-id="Hematologia Pediatria" href="#">Hematologia Pediatria</a>
+              <a class="dropdown-item editbtn" data-toggle="modal" data-id="Hematologia" href="#">Hematologia</a>
+              <a class="dropdown-item editbtn" data-toggle="modal" data-id="Psicología" href="#">Psicología</a>
+              <a class="dropdown-item editbtn" data-toggle="modal" data-id="Neurología" href="#">Neurología</a>
+              <a class="dropdown-item editbtn" data-toggle="modal" data-id="Pediatria" href="#"> Pediatria</a>
+              <a class="dropdown-item editbtn" data-toggle="modal" data-id="Cardio" href="#">Cardio</a>
+              <a class="dropdown-item editbtn" data-toggle="modal" data-id="Cirugias" href="#">Cirugias</a>
             </div>
       </div>
     </div>
