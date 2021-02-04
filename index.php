@@ -50,7 +50,7 @@
   <!--carrosel imagen-->
   <div class="text-center">
   <img src="img/portada.png" class="img-fluid" alt="Responsive image">
-
+ <!--Cuerpo de la paguina-->
   <div class="card text-white bg-info mb-3" style="max-width: 100%">
     <h3 class="card-header text-center" ><strong>"En Juno Doctors, nos especializamos en el cuidado de la salud de tu bebé, desde su desarrollo dentro de ti, hasta su adolescencia"</strong></h3>
     <div class="card-body"style="color: blanchedalmond;">
@@ -141,7 +141,7 @@
     </div>
   </div>
 </div>
-<!-- Modal -->
+<!-- Modal video de presentación-->
 <div class="modal fade" id="ventana" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -161,12 +161,9 @@
     </div>
   </div>
 </div>
-
+<!--reproduccion automatica-->
 <script> 
 var vid = document.getElementById("myVideo"); 
-
-
-
 function pauseVid() { 
     myVideo.pause(); 
 } 
