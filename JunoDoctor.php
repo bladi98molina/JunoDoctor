@@ -49,7 +49,7 @@
   </nav>
   <!--carrosel imagen-->
   <div class="text-center">
-  <img src="img/portada.png" class="img-fluid" alt="Responsive image">
+  <img src="img/portada.jpeg" class="img-fluid" alt="Responsive image">
  <!--Cuerpo de la paguina-->
   <div class="card text-white bg-info mb-3" style="max-width: 100%">
     <h3 class="card-header text-center" ><strong>"En Juno Doctors, nos especializamos en el cuidado de la salud de tu bebé, desde su desarrollo dentro de ti, hasta su adolescencia"</strong></h3>
