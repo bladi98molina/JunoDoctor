@@ -58,7 +58,7 @@ location.href=" JunoDoctor.php";
 else {
 // Si es ordenador de escritorio has lo que necesites
 echo  '<script>
-location.href=" JunoDoctor.php";
+location.href=" img/img-pc/pc.php";
 </script>';
 }  
 ?>
